@@ -22,27 +22,27 @@ Mechanical Engineering student at the University of Ibadan with a strong interes
 ---
 
 ## 🚀 Currently Building
-- Python fundamentals through small engineering-focused scripts  
-- Simulation notebooks for motion, forces, and control concepts  
+- Python fundamentals through engineering-focused scripts  
+- Simulation notebooks for motion, forces, and basic control concepts  
 - Clean workflows for visualising engineering data  
 - A personal toolkit for future robotics and control projects  
 
 ---
 
 ## 🧭 Learning Roadmap (Robotics & Control)
-**Short-term**
+**Short-term**  
 - Python mastery  
-- NumPy, Matplotlib, and basic data visualisation  
+- NumPy, Matplotlib, and data visualisation  
 - Building simple simulators for mechanical systems  
 
-**Mid-term**
-- Control systems fundamentals in MATLAB/Python  
-- Introduction to ROS 2 concepts  
+**Mid-term**  
+- Control systems fundamentals (MATLAB/Python)  
+- Initial ROS 2 workflows  
 - Kinematics for robotic arms and mobile robots  
 
-**Long-term**
-- Intelligent control, sensor fusion, and system optimisation  
-- Full robotics pipelines with simulation–to–hardware workflows  
+**Long-term**  
+- Intelligent control, sensor fusion, optimisation  
+- Robotics pipelines from simulation to hardware  
 - Research-level modelling and algorithm development  
 
 ---
@@ -55,7 +55,7 @@ Work with industrial machinery, production cycles, process optimisation, and qua
 
 ## 📂 Featured Projects (to be updated)
 - **Motion Simulation Notebook** — mechanical motion visualisation in Python *(coming soon)*  
-- **Simple Control Loop Prototype** — a basic closed-loop simulation using Python *(coming soon)*  
+- **Simple Control Loop Prototype** — basic closed-loop simulation *(coming soon)*  
 - **Engineering Utilities Toolkit** — scripts for calculations, plotting, and system analysis *(in progress)*  
 
 ---
@@ -76,3 +76,12 @@ Work with industrial machinery, production cycles, process optimisation, and qua
 [![Email](https://img.shields.io/badge/Email-abrahamadeboye00%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abrahamadeboye00@gmail.com)
 
 ---
+
+## 🌐 Links
+- **GitHub:** https://www.github.com/AAAdeboye  
+- **Portfolio Page:** https://aaadeboye.github.io  
+
+---
+
+## ✨ Motto
+**Ad Meliora 💜💛⚜️**
