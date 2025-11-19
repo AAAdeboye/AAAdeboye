@@ -1,41 +1,78 @@
-# 👋 Hi, I'm Adedolapo
+# Hi, I'm Adedolapo 👋
 
-🎓 **Mechanical Engineering Student** — University of Ibadan  
-🤖 Aspiring **Robotics Researcher** | 💻 Python & C++ Learner | ⚙️ Automation & Controls Enthusiast  
-
-I’m building a strong foundation in mathematics, physics, and programming to prepare for advanced research in **robotics** and **intelligent systems**. My studies focus on how **mechanical design**, **control systems**, and **computational methods** can merge to create adaptive and efficient machines.
+Mechanical Engineering student at the University of Ibadan with a strong interest in robotics, intelligent control systems, and simulation-driven design. I enjoy exploring the bridge between computational modelling and real-world hardware, using code to shape ideas that eventually take physical form.
 
 ---
 
-### 🧠 What I’m Learning
-- **Programming & Data:** Python, C++, MATLAB, NumPy, Pandas  
-- **Mechanical CAD & 3D Modelling:** SolidWorks / Fusion 360, Blender (visual and mesh modelling)  
-- **Control & Simulation:** Simulink, OpenFOAM (CFD)  
-- **Robotics & Middleware:** ROS (Robot Operating System)  
-- **Embedded & Electronics:** Arduino, KiCad (PCB design)  
-- **OS & Tooling:** Ubuntu (Linux environment), TeX Live (LaTeX for reports and research papers)  
-- **Version Control & Collaboration:** Git, GitHub  
+## 🔧 Areas of Interest
+- Robotics and intelligent control  
+- Mechanical system modelling and simulation  
+- Numerical analysis and computational design  
+- Manufacturing systems and industrial automation  
+- Python programming and automation scripts  
 
 ---
 
-### 🔭 Current Learning Projects
-- Completing *Python Crash Course (3rd Edition)* and building automation scripts.  
-- Beginning C++ fundamentals for embedded systems and robotics.  
-- Planning small Arduino–Python integration projects.  
-- Preparing CAD and simulation modules for early mechanical designs.  
+## 💻 Tools and Technologies
+- **Programming:** Python (learning with Python Crash Course, 3rd Edition)  
+- **Engineering Software:** SolidWorks, MATLAB/Simulink (as applicable)  
+- **Simulation:** Mathematical modelling and basic analysis workflows  
+- **Version Control:** Git & GitHub  
 
 ---
 
-### 🥇 Short-term Goals
-1. Develop a sensor-based Arduino project and process data with Python.  
-2. Build and simulate a simple robotic mechanism using CAD and Simulink.  
-3. Write technical reports in LaTeX and document progress here on GitHub.  
+## 🚀 Currently Building
+- Python fundamentals through small engineering-focused scripts  
+- Simulation notebooks for motion, forces, and control concepts  
+- Clean workflows for visualising engineering data  
+- A personal toolkit for future robotics and control projects  
 
 ---
 
-### 🌍 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adedolapo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adedolapo-adeboye-59a2bb305)
+## 🧭 Learning Roadmap (Robotics & Control)
+**Short-term**
+- Python mastery  
+- NumPy, Matplotlib, and basic data visualisation  
+- Building simple simulators for mechanical systems  
+
+**Mid-term**
+- Control systems fundamentals in MATLAB/Python  
+- Introduction to ROS 2 concepts  
+- Kinematics for robotic arms and mobile robots  
+
+**Long-term**
+- Intelligent control, sensor fusion, and system optimisation  
+- Full robotics pipelines with simulation–to–hardware workflows  
+- Research-level modelling and algorithm development  
 
 ---
 
-*"Engineering isn’t only about building machines — it’s about building possibilities."*
+## 🏭 Industry Experience
+**Injection-Moulding Operator — Poly Products Nigeria Limited**  
+Work with industrial machinery, production cycles, process optimisation, and quality control. Apply mechanical intuition and analytical thinking in a real manufacturing environment while developing strong awareness of industrial systems and workflow reliability.
+
+---
+
+## 📂 Featured Projects (to be updated)
+- **Motion Simulation Notebook** — mechanical motion visualisation in Python *(coming soon)*  
+- **Simple Control Loop Prototype** — a basic closed-loop simulation using Python *(coming soon)*  
+- **Engineering Utilities Toolkit** — scripts for calculations, plotting, and system analysis *(in progress)*  
+
+---
+
+## 📊 GitHub Stats
+<div align="left">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Adedolapo-Adeboye&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedolapo-Adeboye&layout=compact)
+
+</div>
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedolapo-adeboye-59a2bb305)
+[![Email](https://img.shields.io/badge/Email-abrahamadeboye00%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abrahamadeboye00@gmail.com)
+
+---
