@@ -14,8 +14,8 @@ Mechanical Engineering student at the University of Ibadan with a strong interes
 ---
 
 ## 💻 Tools and Technologies
-- **Programming:** Python (learning with Python Crash Course, 3rd Edition)  
-- **Engineering Software:** SolidWorks, MATLAB/Simulink (as applicable)  
+- **Programming:** Python
+- **Engineering Software:** SolidWorks, MATLAB/Simulink
 - **Simulation:** Mathematical modelling and basic analysis workflows  
 - **Version Control:** Git & GitHub  
 
