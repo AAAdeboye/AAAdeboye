@@ -63,8 +63,9 @@ Work with industrial machinery, production cycles, process optimisation, and qua
 ## 📊 GitHub Stats
 <div align="left">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AAAdeboye&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAdeboye&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAAdeboye&show_icons=true&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAdeboye&layout=compact&hide_border=true&cache_seconds=86400)
 
 </div>
 
