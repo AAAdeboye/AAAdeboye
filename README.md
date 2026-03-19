@@ -76,9 +76,10 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 🌐 Links
 - **GitHub:** https://github.com/a-adeboye  
-- **Portfolio / GitHub Pages:** https://a-adeboye.github.io  
+- **Portfolio / GitHub Pages:** https://a-adeboye.github.io
+- **WhatsApp:** https://wa.me/2349017049949  
 
 ---
 
 ## ✨ Motto
-**"He who fails to plan, plan to fail**
+**"He who fails to plan, plan to fail"**
