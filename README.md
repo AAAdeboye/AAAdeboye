@@ -1,8 +1,8 @@
 # Hi, I’m Adedolapo 👋
 
-Mechanical Engineering student at the University of Ibadan with a focused interest in **robotics, intelligent control systems, and simulation-driven engineering**.
+A first year Mechanical Engineering student at the University of Ibadan with a focused interest in **robotics, intelligent control systems, and simulation-driven engineering**.
 
-I work at the intersection of **mathematical modelling, computation, and physical systems** — using code to understand dynamics, analyse behaviour, and design systems that can eventually be realised in hardware.
+I enjoy working at the intersection of **mathematical modelling, computation, and physical systems** — using code to understand dynamics, analyse behaviour, and design systems that can eventually be realised in hardware.
 
 I am deliberately building a strong analytical and computational foundation for future work in robotics and control.
 
@@ -19,17 +19,13 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 💻 Tools and Technologies
 - **Programming:** Python  
-- **Engineering Software:** MATLAB / Simulink, SolidWorks
-- **Modelling & Simulation:** Analytical modelling, numerical experimentation  
+- **Programming Platform:** Microsoft Azure instances  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 🚀 Current Focus
-- Developing Python-based simulations of dynamic systems  
-- Modelling classical mechanical systems (pendulum, mass–spring–damper, etc.)  
-- Visualising system behaviour through plots and animation  
-- Building reusable utilities for engineering computation  
+- Developing Python-based simulations of dynamic systems   
 
 ---
 
@@ -41,7 +37,7 @@ I am deliberately building a strong analytical and computational foundation for 
 - Simulation of basic mechanical systems  
 
 **Mid-term**
-- Control systems fundamentals (time and frequency domain)  
+- Control systems fundamentals  
 - Numerical integration methods  
 - Introductory ROS 2 workflows  
 - Kinematics of robotic arms and mobile robots  
@@ -54,25 +50,19 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ---
 
-## 🏭 Industry Exposure
-**Injection-Moulding Operator — Poly Products Nigeria Limited**  
-Hands-on experience with industrial machinery, production cycles, quality control, and process optimisation. This role strengthened my practical understanding of manufacturing systems, reliability, and real-world engineering constraints.
-
----
 
 ## 📂 Featured Projects
 
-### Damped Simple Pendulum Simulation
-Physics-based simulation and real-time animation of a **damped simple pendulum** using Python and Tkinter.  
-Demonstrates analytical modelling, frequency behaviour, and energy dissipation in a classical dynamic system.
+### Anticipatet!!!
+
 
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAAdeboye&show_icons=true&include_all_commits=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAdeboye&layout=compact&langs_count=6&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-adeboye&show_icons=true&include_all_commits=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-adeboye&layout=compact&langs_count=6&hide_border=true)
 
 ---
 
@@ -80,14 +70,15 @@ Demonstrates analytical modelling, frequency behaviour, and energy dissipation i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedolapo-adeboye-59a2bb305)  
 [![Email](https://img.shields.io/badge/Email-abrahamadeboye00%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abrahamadeboye00@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aadeboye258456@stu.ui.edu.ng-red?logo=gmail&logoColor=white)](mailto:aadeboye258456@stu.ui.edu.ng)
 
 ---
 
 ## 🌐 Links
-- **GitHub:** https://github.com/AAAdeboye  
-- **Portfolio / GitHub Pages:** https://aaadeboye.github.io  
+- **GitHub:** https://github.com/a-adeboye  
+- **Portfolio / GitHub Pages:** https://a-adeboye.github.io  
 
 ---
 
 ## ✨ Motto
-**Ad Meliora💜💛**
+**"He who fails to plan, plan to fail**
