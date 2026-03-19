@@ -1,6 +1,6 @@
 # Hi, I’m Adedolapo 👋
 
-A first year Mechanical Engineering student at the University of Ibadan with a focused interest in **robotics, intelligent control systems, and simulation-driven engineering**.
+A first-year Mechanical Engineering student at the University of Ibadan with a focused interest in **robotics, intelligent control systems, and simulation-driven engineering**.
 
 I enjoy working at the intersection of **mathematical modelling, computation, and physical systems** — using code to understand dynamics, analyse behaviour, and design systems that can eventually be realised in hardware.
 
@@ -19,13 +19,13 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 💻 Tools and Technologies
 - **Programming:** Python  
-- **Programming Platform:** Microsoft Azure instances, Termux.
+- **Development Platforms:** Microsoft Azure instances, Termux  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 🚀 Current Focus
-- Developing Python-based simulations of dynamic systems   
+- Developing Python-based simulations of dynamic systems  
 
 ---
 
@@ -50,12 +50,10 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ---
 
-
 ## 📂 Featured Projects
 
 ### Anticipate!!!
-
-
+*(Projects will be added here as they are developed and pushed to GitHub)*
 
 ---
 
@@ -69,17 +67,17 @@ I am deliberately building a strong analytical and computational foundation for 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedolapo-adeboye-59a2bb305)  
-[![Email](https://img.shields.io/badge/Email-abrahamadeboye00%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abrahamadeboye00@gmail.com)
-[![Email](https://img.shields.io/badge/Email-aadeboye258456@stu.ui.edu.ng-red?logo=gmail&logoColor=white)](mailto:aadeboye258456@stu.ui.edu.ng)
+[![Email](https://img.shields.io/badge/Email-abrahamadeboye00%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abrahamadeboye00@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-aadeboye258456%40stu.ui.edu.ng-red?logo=gmail&logoColor=white)](mailto:aadeboye258456@stu.ui.edu.ng)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/2349017049949)  
 
 ---
 
 ## 🌐 Links
-- **GitHub:** https://github.com/a-adeboye  
-- **Portfolio / GitHub Pages:** https://a-adeboye.github.io
-- **WhatsApp:** https://wa.me/2349017049949  
+- **GitHub:** [https://github.com/a-adeboye](https://github.com/a-adeboye)  
+- **Portfolio / GitHub Pages:** [https://a-adeboye.github.io](https://a-adeboye.github.io)  
 
 ---
 
 ## ✨ Motto
-**"He who fails to plan, plan to fail"**
+**"He who fails to plan, plans to fail"**
