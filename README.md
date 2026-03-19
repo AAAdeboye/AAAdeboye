@@ -19,7 +19,7 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 💻 Tools and Technologies
 - **Programming:** Python  
-- **Programming Platform:** Microsoft Azure instances  
+- **Programming Platform:** Microsoft Azure instances, Termux.
 - **Version Control:** Git & GitHub  
 
 ---
@@ -53,7 +53,7 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 📂 Featured Projects
 
-### Anticipatet!!!
+### Anticipate!!!
 
 
 
