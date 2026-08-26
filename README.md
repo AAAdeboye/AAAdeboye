@@ -53,8 +53,11 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-two-xi-52.vercel.app/api?username=a-adeboye&show_icons=true)](https://github.com/a-adeboye)
-[![Top Languages](https://github-readme-stats-two-xi-52.vercel.app/api/top-langs/?username=a-adeboye&layout=compact)](https://github.com/a-adeboye)
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats-sigma-flax-75.vercel.app/api?username=a-adeboye&show_icons=true)](https://github.com/a-adeboye)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats-sigma-flax-75.vercel.app/api/top-langs/?username=a-adeboye&layout=compact)](https://github.com/a-adeboye)
 ---
 
 ## 📫 Contact
