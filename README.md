@@ -21,7 +21,7 @@ I am deliberately building a strong analytical and computational foundation for 
 - **Programming:** Python  
 - **Development Platforms:** Microsoft Azure instances, Termux  
 - **Version Control:** Git & GitHub
-- **Design, Modelling, & Simulation:* Onshape, FreeCAD.
+- **Design, Modelling, & Simulation:** Onshape, FreeCAD.
 
 ---
 
