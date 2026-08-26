@@ -20,12 +20,13 @@ I am deliberately building a strong analytical and computational foundation for 
 ## 💻 Tools and Technologies
 - **Programming:** Python  
 - **Development Platforms:** Microsoft Azure instances, Termux  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+- **Design, Modelling, & Simulation:* Onshape, FreeCAD.
 
 ---
 
 ## 🚀 Current Focus
-- Developing Python-based simulations of dynamic systems  
+- Developing Python-based systems  
 
 ---
 
@@ -34,7 +35,7 @@ I am deliberately building a strong analytical and computational foundation for 
 **Short-term**
 - Python for scientific computing  
 - NumPy, Matplotlib, data visualisation  
-- Simulation of basic mechanical systems  
+- Modelling & Simulation of basic mechanical systems  
 
 **Mid-term**
 - Control systems fundamentals  
@@ -50,18 +51,10 @@ I am deliberately building a strong analytical and computational foundation for 
 
 ---
 
-## 📂 Featured Projects
-
-### Anticipate!!!
-*(Projects will be added here as they are developed and pushed to GitHub)*
-
----
-
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-adeboye&show_icons=true&include_all_commits=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-adeboye&layout=compact&langs_count=6&hide_border=true)
-
 ---
 
 ## 📫 Contact
